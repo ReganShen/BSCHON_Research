@@ -1,0 +1,6 @@
+{
+  "PSO" :  {"inertia_weight" :  0.729, "swarm_size" :  3, "cognitive_parameter" :  1, "social_parameter" :  1},
+  "GDPSO" : {"inertia_weight" :  0.729, "swarm_size" :  3, "cognitive_parameter" :  1.5, "social_parameter" :  1.0, "step_size" :  0.02, "iterations_SGD" :  100},
+  "AdaSwarm" : {"swarm_size" :  10, "cognitive_parameter" :  0.8, "social_parameter" :  0.9, "momentum_factor" :  0.9, "iterations" :  50},
+  "AdamPSO" : {"inertia_weight" :  0.729, "swarm_size" :  3, "cognitive_parameter" :  1.0, "social_parameter" :  1.0, "step_size" :  0.02, "iterations_SGD" :  100}
+}
