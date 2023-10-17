@@ -1,0 +1,13 @@
+filelock==3.12.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+mpmath==1.3.0
+networkx==3.1
+numpy==1.25.1
+scipy==1.11.1
+sympy==1.12
+torch==2.0.1
+torch_pso==1.2.1
+torchswarm==0.0.1
+typing_extensions==4.7.1
+setuptools~=60.2.0
