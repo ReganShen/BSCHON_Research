@@ -1,6 +1,6 @@
 # Training Graph Neural Networks using Metaheuristics
 
-Welcome to the repository! Here, you'll find the code and experiments supporting my Computer Science honours research. I've delved into the realm of training Graph Neural Networks (GNNs) using metaheuristics, and the results are promising.
+Here, you'll find the code and experiments supporting my Computer Science honours research. I've delved into the realm of training Graph Neural Networks (GNNs) using metaheuristics, and the results are promising. This code includes our very own implementation of the GDPSO algorithm (more details below) and our very own novel algorithm the AdamPSO.
 
 During my investigations, I discovered that particular PSO algorithms which leveraged gradient information were adept at accurately training GNN models.
 
